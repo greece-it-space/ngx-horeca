@@ -1,0 +1,46 @@
+[
+	{
+		"slug": "homemade-syrnyky-with-sour-cream",
+		"categorySlug": "breakfasts",
+		"image": "/dish/homemade-syrnyky-with-sour-cream.webp",
+		"name": "Σπιτικά syrnyky με ξινή κρέμα",
+		"description": "Χρυσαφένιες τηγανίτες τυριού, ζεστές με ξινή κρέμα.",
+		"price": 101,
+		"labels": [
+			"Πρωινό",
+			"200 g"
+		],
+		"fullDescription": "Τρυφερά σπιτικά syrnyky με λεπτή τυρένια υφή, τηγανισμένα μέχρι να χρυσίσουν και σερβιρισμένα με ξινή κρέμα. Παραδοσιακό γλυκό πρωινό με σπιτική αίσθηση.",
+		"suggested": [
+			"cappuccino"
+		],
+		"cookTimeMinutes": 12,
+		"caloriesKcal": 301,
+		"portion": "200 g",
+		"allergens": [
+			"γάλα"
+		]
+	},
+	{
+		"slug": "cappuccino",
+		"categorySlug": "coffee",
+		"image": "/dish/cappuccino.webp",
+		"name": "Καπουτσίνο",
+		"description": "Εσπρέσο με ζεστό αφρόγαλα και λεία στρώση αφρού.",
+		"price": 61,
+		"labels": [
+			"Καφές",
+			"250 ml"
+		],
+		"fullDescription": "Ισορροπημένος καπουτσίνο με φρέσκο εσπρέσο, ζεστό αφρόγαλα και λεπτό αφρό. Σερβίρεται ζεστό και ταιριάζει φυσικά με πρωινό ή επιδόρπιο.",
+		"suggested": [
+			"homemade-syrnyky-with-sour-cream"
+		],
+		"cookTimeMinutes": 4,
+		"caloriesKcal": 91,
+		"portion": "250 ml",
+		"allergens": [
+			"γάλα"
+		]
+	}
+]
