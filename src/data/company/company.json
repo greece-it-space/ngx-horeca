@@ -1,0 +1,145 @@
+{
+	"_id": "demo",
+	"name": "Horeca",
+	"lang": "uk",
+	"locale": "uk_UA",
+	"siteUrl": "https://horeca.itkamianets.com",
+	"logo": "/logo.webp",
+	"phone": "+38 097 000 00 00",
+	"email": "hello@horeca.itkamianets.com",
+	"address": "Αθήνα, Ελλάδα",
+	"currency": {
+		"code": "UAH",
+		"icon": "₴"
+	},
+	"defaultSeo": {
+		"title": "Horeca | πρότυπο ιστότοπου για εστιατόρια, καφέ, ξενοδοχεία και διανομή",
+		"description": "Το Horeca είναι έτοιμο πρότυπο ιστότοπου για εστιατόρια, καφέ, ξενοδοχεία, μπαρ, διανομή φαγητού και catering. Παρουσιάστε μενού, φωτογραφίες, επαφές, κρατήσεις, εκδηλώσεις, προσφορές και κοινωνικά δίκτυα σε έναν γρήγορο SEO-friendly ιστότοπο.",
+		"keywords": [
+			"Horeca",
+			"εστιατόριο",
+			"καφέ",
+			"ξενοδοχείο",
+			"μπαρ",
+			"διανομή φαγητού",
+			"catering",
+			"μενού",
+			"κράτηση",
+			"εκδηλώσεις",
+			"προσφορές",
+			"ιστότοπος HoReCa",
+			"ιστότοπος εστιατορίου"
+		],
+		"author": "Horeca",
+		"robots": "index, follow",
+		"image": "/logo.webp",
+		"type": "website",
+		"twitterCard": "summary_large_image"
+	},
+	"pageSeo": {
+		"/": {
+			"title": "Μενού χώρου | Horeca",
+			"description": "Μενού εστιατορίου, καφέ, ξενοδοχείου ή διανομής στο πρότυπο Horeca: πρωινά, κυρίως πιάτα, ποτά, επιδόρπια και εποχικές προτάσεις σε ένα ψηφιακό μενού.",
+			"image": "/dish/cappuccino.webp"
+		},
+		"/favorites": {
+			"title": "Αγαπημένα πιάτα | Horeca",
+			"description": "Δείτε επιλεγμένα στοιχεία μενού στο πρότυπο Horeca και επιστρέψτε γρήγορα στα αγαπημένα πιάτα.",
+			"keywords": [
+				"αγαπημένα πιάτα",
+				"μενού εστιατορίου",
+				"Horeca"
+			],
+			"robots": "noindex, follow",
+			"image": "/dish/homemade-syrnyky-with-sour-cream.webp"
+		},
+		"/rooms": {
+			"title": "Δωμάτια και διαμονή | Horeca",
+			"description": "Σελίδα δωματίων και διαμονής για ξενοδοχείο, aparthotel ή ξενώνα στο πρότυπο Horeca.",
+			"image": "/room/room-1.webp"
+		},
+		"/navigation": {
+			"title": "Πλοήγηση ιστότοπου | Horeca",
+			"description": "Γρήγορη πρόσβαση σε όλες τις βασικές σελίδες του ιστότοπου HoReCa.",
+			"robots": "noindex, follow",
+			"image": "/gallery/demo-2.webp"
+		},
+		"/gallery": {
+			"title": "Γκαλερί χώρου | Horeca",
+			"description": "Φωτογραφίες εσωτερικού, πιάτων, παρουσίασης και ατμόσφαιρας εστιατορίου, καφέ ή ξενοδοχείου στο πρότυπο Horeca.",
+			"image": "/gallery/demo-1.webp"
+		},
+		"/dish": {
+			"title": "Σελίδα πιάτου | Horeca",
+			"description": "SEO σελίδα για μεμονωμένο πιάτο με περιγραφή, συστατικά και σχετικά στοιχεία μενού στο πρότυπο Horeca."
+		},
+		"/discounts": {
+			"title": "Εκπτώσεις και ειδικές προσφορές | Horeca",
+			"description": "Προβάλετε εποχικές προσφορές, εκπτώσεις, συνδυαστικές προτάσεις και ειδικούς όρους για επισκέπτες στη σελίδα εκπτώσεων.",
+			"image": "/gallery/demo-3.webp"
+		},
+		"/loyalty": {
+			"title": "Πρόγραμμα πιστότητας",
+			"description": "Απλή σελίδα προγράμματος πιστότητας για ανταμοιβές, προνόμια, επίπεδα πιστότητας, προσφορές γενεθλίων και τρέχοντες όρους προγράμματος.",
+			"image": "/gallery/demo-3.webp"
+		},
+		"/articles": {
+			"title": "Νέα και άρθρα | Horeca",
+			"description": "Δημοσιεύστε νέα, ιστορίες ομάδας, εποχικές ενημερώσεις μενού και χρήσιμα άρθρα για επισκέπτες.",
+			"image": "/gallery/demo-2.webp"
+		},
+		"/quests": {
+			"title": "Quest και δραστηριότητες | Horeca",
+			"description": "Ξεχωριστή σελίδα για quest, ψυχαγωγία και θεματικές δραστηριότητες σε χώρο ή ξενοδοχείο.",
+			"image": "/gallery/demo-3.webp"
+		},
+		"/questions": {
+			"title": "Συχνές ερωτήσεις | Horeca",
+			"description": "Απαντήσεις σε συχνές ερωτήσεις επισκεπτών για κρατήσεις, ώρες λειτουργίας, διανομή, μενού, εκδηλώσεις και διαμονή.",
+			"image": "/gallery/demo-2.webp"
+		},
+		"/rules": {
+			"title": "Κανόνες χώρου | Horeca",
+			"description": "Κανόνες επισκεπτών για Horeca: εστιατόριο, ξενοδοχείο, εκδηλώσεις, ασφάλεια, κρατήσεις και κοινόχρηστοι χώροι σε μία σελίδα.",
+			"image": "/gallery/demo-2.webp"
+		},
+		"/reviews": {
+			"title": "Κριτικές επισκεπτών | Horeca",
+			"description": "Συλλέξτε και προβάλετε κριτικές επισκεπτών, αξιολογήσεις και κοινωνική απόδειξη για εστιατόριο, καφέ ή ξενοδοχείο.",
+			"image": "/gallery/demo-1.webp"
+		},
+		"/events": {
+			"title": "Εκδηλώσεις και γιορτές | Horeca",
+			"description": "Σελίδα για ημερολόγιο εκδηλώσεων, δεξιώσεις, ζωντανή μουσική, γευσιγνωσίες και ιδιωτικές γιορτές σε χώρο HoReCa.",
+			"image": "/gallery/demo-3.webp"
+		},
+		"/products": {
+			"title": "Προϊόντα και δώρα | Horeca",
+			"description": "Παρουσιάστε σε ξεχωριστή σελίδα σετ δώρων, merch, αγροτικά προϊόντα ή σχετικά είδη.",
+			"image": "/dish/cappuccino.webp"
+		},
+		"/jobs": {
+			"title": "Θέσεις εργασίας | Horeca",
+			"description": "Ξεχωριστή SEO σελίδα για θέσεις εργασίας εστιατορίου, καφέ, ξενοδοχείου ή υπηρεσίας διανομής.",
+			"image": "/room/room-2.webp"
+		},
+		"/team": {
+			"title": "Ομάδα χώρου | Horeca",
+			"description": "Συστήστε στους επισκέπτες τον σεφ, τους barista, τους managers και την ομάδα εξυπηρέτησης στη σελίδα ομάδας.",
+			"image": "/gallery/demo-1.webp"
+		},
+		"/socials": {
+			"title": "Επαφές και κοινωνικά δίκτυα | Horeca",
+			"description": "Τηλέφωνο, email, διεύθυνση, messengers και κοινωνικά δίκτυα για επιχείρηση HoReCa σε μία σελίδα.",
+			"image": "/logo.webp"
+		}
+	},
+	"structuredData": {
+		"type": "Εστιατόριο",
+		"priceRange": "$$",
+		"servesCuisine": "HoReCa",
+		"addressLocality": "Kamianets-Podilskyi",
+		"addressCountry": "UA",
+		"sameAs": []
+	}
+}
